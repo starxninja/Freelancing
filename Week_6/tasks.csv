@@ -1,0 +1,5 @@
+title,type,date_due,completed,interval,completed_dates,date_created
+Buy groceries,Task,2023-10-20,False,,,2023-10-18
+Water plants,RecurringTask,2023-10-21,False,7,,2023-10-18
+Finish homework,Task,2023-10-22,True,,,2023-10-18
+Read Book,Task,2023-10-25,False,,,2025-07-23
